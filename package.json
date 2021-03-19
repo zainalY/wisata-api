@@ -1,0 +1,24 @@
+{
+  "name": "wisata-api",
+  "version": "1.0.0",
+  "description": "My data api wisata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainalY/wisata-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zainalY/wisata-api/issues"
+  },
+  "homepage": "https://github.com/zainalY/wisata-api#readme",
+  "dependencies": {
+    "json": "^10.0.0",
+    "server": "^1.0.32"
+  }
+}
