@@ -1,0 +1,16 @@
+{
+    "wisata": [
+        {
+            "id": 1,
+            "nama": "Jam Gadang",
+            "gambar_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Jam_Gadang_Okt_2020_1_crop.jpg",
+            "kategori": "Sejarah"
+        },
+        {
+            "id": 2,
+            "nama": "Goa jepang",
+            "gambar_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Japanese_Tunnel_Bukittinggi_Indonesia.jpg",
+            "kategori": "Sejarah"
+        }
+    ]
+}
